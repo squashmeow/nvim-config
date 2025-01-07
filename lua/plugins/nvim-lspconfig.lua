@@ -24,7 +24,7 @@ return {
           offsetEncoding = { "utf-16" },
         },
         cmd = {
-          "/usr/bin/clangd-12",
+          "/usr/bin/clangd-18",
           "--background-index",
           "--clang-tidy",
           "--completion-style=detailed",
